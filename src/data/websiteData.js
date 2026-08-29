@@ -10,10 +10,17 @@
 // =========================================================================
 
 // ---- 1. SITE-WIDE SETTINGS (change these first) -------------------------
+import image1 from '../images/1.jpeg'
 import image2 from '../images/2.jpeg'
 import image3 from '../images/3.jpeg'
 import image4 from '../images/4.jpeg'
 import image5 from '../images/5.jpeg'
+import whatsappImage57Main from '../images/WhatsApp Image 2026-08-28 at 9.55.57 PM.jpeg'
+import whatsappImage571 from '../images/WhatsApp Image 2026-08-28 at 9.55.57 PM (1).jpeg'
+import whatsappImage572 from '../images/WhatsApp Image 2026-08-28 at 9.55.57 PM (2).jpeg'
+import whatsappImage58Main from '../images/WhatsApp Image 2026-08-28 at 9.55.58 PM.jpeg'
+import whatsappImage581 from '../images/WhatsApp Image 2026-08-28 at 9.55.58 PM (1).jpeg'
+import whatsappImage582 from '../images/WhatsApp Image 2026-08-28 at 9.55.58 PM (2).jpeg'
 import birthChartVideo from '../images/From Klickpin.com- Handmade Card Ideas That Will Inspire You 84842-pin-id-971581319628306679.mp4'
 import vastuVideo from '../images/From Klickpin.com- Handmade Card Ideas That Will Inspire You 84842-pin-id-94857135899160858.mp4'
 import pujaVideo from '../images/From Klickpin.com- Handmade Card Ideas That Will Inspire You 84842-pin-id-883690758154734125.mp4'
@@ -45,6 +52,7 @@ export const siteConfig = {
     facebook: 'https://www.facebook.com/share/1EQ5gvCQRW/',
     youtube: 'https://www.youtube.com/@SriGuruRaghavendraastrocentre',
     whatsapp: 'https://wa.me/916363913202',
+    x: 'https://x.com/_RaghavendraRao',
 
   },
 }
@@ -236,10 +244,18 @@ export const videos = [
 
 // ---- 12. GALLERY -----------------------------------------------------------------
 export const galleryImages = [
+  { alt: 'Sri Guru Raghavendra centre front view', src: image4 },
+  { alt: 'Recent centre moment 2', src: whatsappImage572 },
   { alt: 'Astrology consultation session', src: image2 },
-  { alt: 'Temple visit', src: image3 },
+  { alt: 'Recent centre moment 4', src: whatsappImage581 },
   { alt: 'Puja ceremony', src: image4 },
-  { alt: 'Meditation session', src: image5 },
+  
+  { alt: 'Recent centre moment 1', src: whatsappImage571 },
+   { alt: 'Temple visit', src: image3 },
+  { alt: 'Recent centre moment 3', src: whatsappImage57Main },
+ { alt: 'Meditation session', src: image5 },
+  
+  { alt: 'Recent centre moment 6', src: whatsappImage58Main },
 ]
 
 // ---- 13. PUJAS & RITUALS ----------------------------------------------------------
