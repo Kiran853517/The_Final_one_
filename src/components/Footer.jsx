@@ -98,7 +98,7 @@ export default function Footer() {
             <a href={siteConfig.socials.youtube} target="_blank" rel="noopener noreferrer" aria-label="YouTube">
               <Youtube size={18} />
             </a>
-            <a href={siteConfig.socials.whatsapp} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+            <a href={siteConfig.socials.phone} target="_blank" rel="noopener noreferrer" aria-label="phone">
               <Phone size={18} />
             </a>
             <a href={siteConfig.socials.x} target="_blank" rel="noopener noreferrer" aria-label="X">
