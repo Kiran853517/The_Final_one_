@@ -31,7 +31,7 @@ export default function Gallery() {
     <section id="gallery" className="section section-alt">
       <div className="container">
         <div className="section-header">
-          <span className="section-eyebrow">Gallery</span>
+          <span className="section-eyebrow">Glimpses</span>
           <h2 className="section-title">Moments From Our Centre</h2>
         </div>
 
