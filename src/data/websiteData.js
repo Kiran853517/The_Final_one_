@@ -41,7 +41,7 @@ export const siteConfig = {
   
   phone: '+91 63639 13202',
   // WhatsApp needs the number WITHOUT "+" or spaces, that's why it's separate:
-  whatsappNumber: '917676894399',
+  whatsappNumber: '916363913202',
   email: 'srigururaghavendraastro001@gmail.com',
   address: 'Sri Guru Raghavendra Astro Centre, Bengaluru, Karnataka, India',
   hours: 'Monday – Sunday, 9:00 AM – 8:00 PM',
